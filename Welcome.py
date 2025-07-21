@@ -23,7 +23,7 @@ st.markdown("""
 """)
 
 st.image(
-"Pages/Articles_images/satellite-express-3455755_1280.jpg",   
+"pages/Articles_images/satellite-express-3455755_1280.jpg",   
  use_container_width=True,
     caption="Track your health with DiaWatch"
 )
