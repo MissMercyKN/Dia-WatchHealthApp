@@ -19,23 +19,23 @@ def app():
     articles = [
         {
             "title": "📌 Understanding Diabetes",
-            "image": "Pages\Articles_images\diabetes_basics.jpg",
-            "file": "Articles\what_is.md"
+            "image": "Pages/Articles_images/diabetes_basics.jpg",
+            "file": "Articles/what_is.md"
         },
         {
             "title": "🚨 Early Symptoms of Diabetes",
-            "image": "Pages\Articles_images\symptoms.jpg",
-            "file": "Articles\symptoms_causes.md"
+            "image": "Pages/Articles_images/symptoms.jpg",
+            "file": "Articles/symptoms_causes.md"
         },
         {
             "title": "💡 Preventing Type 2 Diabetes",
-            "image": "Pages\Articles_images\prevention.jpg",
-            "file": "Articles\prevention_tips.md"
+            "image": "Pages/Articles_images/prevention.jpg",
+            "file": "Articles/prevention_tips.md"
         },
         {
             "title": "🧪 Importance of Early Screening",
-            "image": "Pages\Articles_images\screening.jpg",
-            "file": "Articles\importance.md"
+            "image": "Pages/Articles_images/screening.jpg",
+            "file": "Articles/importance.md"
         }
     ]
 
