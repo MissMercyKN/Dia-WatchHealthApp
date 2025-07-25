@@ -1,11 +1,11 @@
 ## DiaWatch 🩺 – AI-Powered Diabetes Risk Detection App
 
-DiaWatch is a user-friendly web application that uses machine learning to assess an individual's risk of developing diabetes. Built with Python and Streamlit, it empowers users with quick risk evaluations, lifestyle recommendations, and informative health tips — all based on input health parameters.It alos contain more information of the best practices to prevent diabetes
+DiaWatch is a user-friendly web application that uses machine learning to assess an individual's risk of developing diabetes. Built with Python and Streamlit, it empowers users with quick risk evaluations, lifestyle recommendations, and informative health tips — all based on input health parameters.It also contains more information of the best practices to prevent diabetes
 
- ##🚀 Live Demo 
+  Live Demo 
  https://dia-watchhealthapp-prrzzv7hdx5chsnpy4ps9i.streamlit.app/
 
-## 📌 Features
+Features
 
 - ✅ Predicts Low, Medium, or High diabetes risk
 - 💡 Provides personalized **lifestyle recommendations**
