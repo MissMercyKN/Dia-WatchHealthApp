@@ -13,7 +13,7 @@ st.set_page_config(page_title="DiaWatch", layout="centered")
 st.title("👋 Welcome to DiaWatch")
 
 st.markdown("""
-    **DiaWatch** helps you assess your diabetes risk using AI.  
+    DiaWatch helps you assess your diabetes risk using AI.  
     Just enter your health details and receive personalized results and lifestyle tips.
 
     ---
