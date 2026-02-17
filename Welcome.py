@@ -5,7 +5,7 @@ import streamlit as st
 
 # Navigation to other pages (if you use multipage structure with `pages/`)
 st.sidebar.title("Navigation")
-st.sidebar.markdown("Choose a page from the left sidebar.")
+st.sidebar.markdown("Choose a page from the left sidebar")
 
 
 st.set_page_config(page_title="DiaWatch", layout="centered")
